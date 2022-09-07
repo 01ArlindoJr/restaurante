@@ -52,10 +52,10 @@ header .hero #formSearch {
 }
 
 header .hero #formSearch input {
-    width: 60vw;
+    width: 50vw;
     padding: 10px;
     border-radius: 5px;
-    border: 1px solid rgba(0, 0, 0, .3);
+    border: 1px solid rgba(0, 0, 0, 0.678);
     text-align: center;
 }
 
@@ -136,9 +136,9 @@ footer .container p {
 }
 
 .hero-sobre {
-    height: 300px;
-    background-color: #111;
+    background-color: rgb(24, 21, 21);
     color: #fff;
+    height: 300px;
     display: flex;
     justify-content: center;
     align-items: center;
